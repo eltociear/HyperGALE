@@ -1,6 +1,6 @@
 # HyperGALE
 
-HyperGALE is the open source implementation of ICASSP submitted paper [HyperGALE: ASD Classifcation via Hypergraph Gated Attention with Learnable Hyperedges](link) 
+HyperGALE is the open source implementation of IJCNN accepted paper [HyperGALE: ASD Classifcation via Hypergraph Gated Attention with Learnable Hyperedges](link) 
 
 ![language](https://img.shields.io/github/languages/top/mehular0ra/HyperGALE?color=lightgrey)
 ![lines](https://img.shields.io/tokei/lines/github/mehular0ra/HyperGALE?color=red)
