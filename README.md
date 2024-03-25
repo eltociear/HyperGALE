@@ -11,7 +11,7 @@ HyperGALE is the open source implementation of IJCNN accepted paper [HyperGALE: 
 
 Download the ABIDE-2 dataset from [here](http://fcon_1000.projects.nitrc.org/indi/abide/abide_II.html).
 
-Resting state fMRI data is preprocessed using Version 1 of Schaefer2018 parecellation with #ROIs=400. Details about about parcellations can be found [here](https://github.com/ThomasYeoLab/CBIG/tree/master/stable_projects/brain_parcellation/Schaefer2018_LocalGlobal).
+Resting state fMRI data is preprocessed using Version 1 of Schaefer2018 parecellation with #ROIs=400. Details about parcellations can be found [here](https://github.com/ThomasYeoLab/CBIG/tree/master/stable_projects/brain_parcellation/Schaefer2018_LocalGlobal).
 
 
 ## Usage
